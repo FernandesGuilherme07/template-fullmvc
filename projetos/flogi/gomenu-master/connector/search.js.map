@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/mock-connector/search.js"],"names":[],"mappings":";;;;;;;;;;;;;;AAAA","sourcesContent":["export { default } from './subcategory'\n"],"file":"search.js"}
